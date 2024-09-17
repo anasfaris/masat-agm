@@ -1,4 +1,4 @@
-bottle==0.12.7
+bottle
 pymongo
-pytz==2014.10
-httpagentparser==1.7.6
+pytz
+httpagentparser
